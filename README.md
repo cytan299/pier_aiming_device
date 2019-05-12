@@ -11,7 +11,9 @@ The aiming device consists of
 * [Pro-aim adjustable wedge.](https://www.amazon.com/gp/product/B01LYIUUQK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 * [Red dot finder](https://www.amazon.com/Astromania-Finder-Deluxe-Telescope-Reflex/dp/B0140UA2OY/ref=sr_1_4?keywords=red+dot+finder&qid=1557624898&s=gateway&sr=8-4)
 * [Picatinny rail](https://www.amazon.com/gp/product/B07KW556JP/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-* [3D printed platform](https://github.com/cytan299/pier_aiming_device/blob/master/stl) for holding the Pro-aim wedge.
+* [3D printed platform](https://github.com/cytan299/pier_aiming_device/blob/master/stl) for holding the Pro-aim wedge. Note: these platforms are for the [119FSA](https://astro-physics.com/119fsa). You will have to design a platform for other mounts.
+* [1/4-20 threaded heat set inserts](https://www.ebay.com/itm/20x-1-4-20-Brass-Threaded-Heat-Set-Inserts-for-Plastic-3D-Printing-Metal-Long/292166989534?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) for plastic 3D parts.
+
 
 The assembled aiming device is
 
